@@ -1,0 +1,11 @@
+public class Student
+{
+  private String firstName;
+  private String lastName;
+
+  public Student(fName, lName)
+  {
+      firstName = fName;
+      lastName = lName;
+  }
+}
